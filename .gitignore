@@ -10,7 +10,7 @@
 # RStudio files
 .Rproj.user/
 
-# ignore unzipped data file
+# ignore unzipped data file and temporary script
 activity.csv
-
+solution.R
 
